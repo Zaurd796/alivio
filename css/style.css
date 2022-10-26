@@ -776,6 +776,7 @@ body {
   .works__list-item::after {
     width: 100%;
   }
+}
 
   @media (max-width: 1320px) {
     .works__list {
@@ -826,6 +827,7 @@ body {
 
   .mobile-nav-button {
     display: block;
+    margin-left: auto;
   }
 }
 
